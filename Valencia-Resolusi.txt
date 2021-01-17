@@ -1,6 +1,7 @@
 Resolusi programming 2021
 - belajar REST API
 - Belajar GIT & GITHUB
+- Mengulang / memperdalam CodeIgniter 4
 - Melanjutkan belajar javascript
-- mengenal REACT.JS
+- mengenal REACT.JS & VUE.JS
 - Belajar LARAVEL
